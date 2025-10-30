@@ -39,7 +39,7 @@ Seeing the positive change early intervention brought to these children motivate
 |------------|-----|
 | **Live App** | [https://neurocheck.org](https://neurocheck.org) |
 | **Backend API** | [https://api.neurocheck.org](https://api.neurocheck.org) |
-| **GitHub Repo** | [https://github.com/saanvinaik/neurocheck](https://github.com/saanvinaik/neurocheck) |
+| **GitHub Repo** | [https://github.com/saanvirnaik/neurocheck](https://github.com/saanvinaik/neurocheck) |
 
 ---
 

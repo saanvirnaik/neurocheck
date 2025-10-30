@@ -1,6 +1,8 @@
 # 🧩 NeuroCheck
 
 [![YouTube Demo](https://img.shields.io/badge/🎥%20Watch-Demo-red?logo=youtube)](https://youtu.be/Wi13vPI1PEc?si=p96PEYjSKlndkNA-)
+[![Patent Pending](https://img.shields.io/badge/Patent-Pending-blueviolet)](#)
+[![Volunteering Impact](https://img.shields.io/badge/Inspired%20By-Community%20Service-orange)](#)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Tech Stack](https://img.shields.io/badge/Built%20With-React%20%7C%20Spring%20Boot%20%7C%20MySQL-blue)](#-technology-stack)
 

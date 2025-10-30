@@ -11,7 +11,7 @@ It is designed to promote awareness, inclusion, and early support for children w
 - 🎮 **Gamified Mini-Tests** — Fun interactive activities that assess focus, attention, and memory
 - 📊 **Instant Results Report** — Printable and easy-to-understand summaries
 - 🌍 **Resource Library** — Links to national and local neurodiversity support organizations
-- 🔐 **Privacy First** — No user data stored or transmitted
+- 🔐 **Privacy First** — No user data transmitted
 
 ---
 
@@ -39,7 +39,7 @@ Seeing the positive change early intervention brought to these children motivate
 |------------|-----|
 | **Live App** | [https://neurocheck.org](https://neurocheck.org) |
 | **Backend API** | [https://api.neurocheck.org](https://api.neurocheck.org) |
-| **GitHub Repo** | [https://github.com/saanvirnaik/neurocheck](https://github.com/saanvinaik/neurocheck) |
+| **GitHub Repo** | [https://github.com/saanvirnaik/neurocheck](https://github.com/saanvirnaik/neurocheck) |
 
 ---
 

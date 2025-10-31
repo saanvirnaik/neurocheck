@@ -6,6 +6,9 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Tech Stack](https://img.shields.io/badge/Built%20With-React%20%7C%20Spring%20Boot%20%7C%20MySQL-blue)](#-technology-stack)
 
+Licensed under the **Apache License 2.0**.  
+Certain algorithms and scoring frameworks described in this project are protected under **U.S. Patent Application No. 63/958,427 – NeuroCheck Early Screening System**.
+
 **NeuroCheck** is a fun, educational web app that helps identify early signs of **Autism, ADHD, and Dyslexia** using a combination of **scientific questionnaires** and **interactive, game-based assessments**.  
 It is designed to promote awareness, inclusion, and early support for children with neurodiverse needs.
 
@@ -201,7 +204,7 @@ mvn spring-boot:run
 ---
 
 ## 📄 License
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
+This project is licensed under the **Apache License 2.0** — see the [LICENSE](LICENSE) file for details.
 
 ---
 

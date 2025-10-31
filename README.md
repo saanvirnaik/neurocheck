@@ -20,7 +20,7 @@ It is designed to promote awareness, inclusion, and early support for children w
 - 🎮 **Gamified Mini-Tests** — Fun interactive activities that assess focus, attention, and memory  
 - 📊 **Instant Results Report** — Printable and easy-to-understand summaries  
 - 🌍 **Resource Library** — Links to national and local neurodiversity support organizations  
-- 🔐 **Privacy First** — No user data transmitted  
+- 🔐 **Privacy First** — Screenings are processed securely, and no personally identifiable information (PII) is stored or shared.
 
 ---
 

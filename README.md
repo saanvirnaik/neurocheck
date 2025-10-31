@@ -46,6 +46,15 @@ It connects interactive front-end modules with a robust back-end that performs l
 
 ---
 
+### ⚙️ Scoring Algorithms (Patent-Protected)
+
+NeuroCheck uses a structured scoring framework that combines **scientific questionnaires** and **interactive task results** to generate indicative scores for Autism, ADHD, and Dyslexia.  
+Each response and gameplay action contributes to weighted categories such as **focus**, **reading awareness**, and **attention span**, which are then compiled into a **condition-specific index**.
+
+> 🧩 *The detailed computation model, weighting logic, and normalization process are part of the **patent-pending NeuroCheck Early Screening System (US 63/958,427)** and are not publicly disclosed.*
+
+---
+
 ### 🧩 Detailed Architecture
 
 ```mermaid
@@ -197,5 +206,6 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 ---
 
 > 🧩 *Developed and submitted by **Saanvi Naik** for the 2025 Congressional App Challenge.*  
-> *Patent Pending – NeuroCheck Early Screening System.*  
+> *Patent No: **US 63/958,427 – NeuroCheck Early Screening System (Patent Pending).***  
 > *Inspired by volunteering at Stable Influence Therapeutic Riding Center.*
+
